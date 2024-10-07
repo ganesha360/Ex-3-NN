@@ -1,6 +1,6 @@
-### ENTER YOUR NAME: KARTHIKEYAN R
-### ENTER YOUR REGISTER NO.212222240046
-### DATE:03/10/24
+### ENTER YOUR NAME: GANESH R
+### ENTER YOUR REGISTER NO: 212222240029
+### DATE: 
 <H3>EX. NO.3</H3>
 <H2 aligh = center> Implementation of MLP for a non-linearly separable data</H2>
 <h3>Aim:</h3>
@@ -36,7 +36,7 @@ Step 3: Repeat the  iteration  until the losses become constant and  minimum<BR>
 Step 4 : Test for the XOR patterns.
 
 ### Program:
-```
+```PY
 import numpy as np
 import pandas as pd
 import io
