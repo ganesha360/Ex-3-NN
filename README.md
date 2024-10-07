@@ -1,8 +1,8 @@
 ### ENTER YOUR NAME: GANESH R
 ### ENTER YOUR REGISTER NO: 212222240029
 ### DATE: 
-<H3>EX. NO.3</H3>
-<H2 aligh = center> Implementation of MLP for a non-linearly separable data</H2>
+# EX. NO.3
+# Implementation of MLP for a non-linearly separable data
 <h3>Aim:</h3>
 To implement a perceptron for classification using Python
 <H3>Theory:</H3>
