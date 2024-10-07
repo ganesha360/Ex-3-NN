@@ -1,5 +1,5 @@
 ### ENTER YOUR NAME: GANESH R
-### ENTER YOUR REGISTER NO: 212222240029
+### ENTER YOUR REGISTER NO. 212222240029
 ### DATE: 
 # EX. NO.3
 # Implementation of MLP for a non-linearly separable data
